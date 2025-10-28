@@ -45,3 +45,7 @@ Acesse: http://localhost:8114
 
 ## Dicas
 - Para instalar novos pacotes: `composer require <pacote>`
+
+## tela
+Essa é a aparência do app, convido você a criar a página de detalhes do filme.
+<img src="https://personalizetudo.com.br/assets/images/frontend.png" alt="drawing" width="600"/>
